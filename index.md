@@ -2,4 +2,4 @@
 
 This is my first page!
 
-[README.md] (README.md)
+[README.md](README.md)

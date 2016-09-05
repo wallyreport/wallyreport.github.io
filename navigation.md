@@ -1,4 +1,4 @@
-# WB_Blog
+# The Wally Report
 
 [Home](index.md)
 [About](about.md)

@@ -1,5 +1,6 @@
 # The Wally Report
 
 [Home](index.md)
-[About](about.md)
-[Download](download.md)
+[Recipes](recipes.md)
+[Health](health.md)
+[Tech](tech.md)

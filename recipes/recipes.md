@@ -1,5 +1,4 @@
 # Recipes
 
-## [Breads and Muffins](/breads/breads.and.muffins.md)
-
-## [Soups and Chilis](soups/soups.and.chilis.md)
+- [Breads and Muffins](breads/breads.md)
+- [Soups and Chilis](soups/soups.md)

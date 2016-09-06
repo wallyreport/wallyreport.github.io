@@ -4,7 +4,7 @@
 - [Bread.Banana.Almond.Meal.md](Bread.Banana.Almond.Meal.md)
 - [Bread.Banana.Flax.Meal.md](Bread.Banana.Flax.Meal.md)
 - [Bread.Banana.Flax.md](Bread.Banana.Flax.md)
-- [Bread.Banana.Gluten-Free.Vegan.mdread.Banana.Gluten-Free.Vegan.md)
+- [Bread.Banana.Gluten-Free.Vegan.md](read.Banana.Gluten-Free.Vegan.md)
 - [Bread.Banana.Pamelas.md](Bread.Banana.Pamelas.md)
 - [Bread.Banana.mdread.Banana.md](Bread.Banana.mdread.Banana.md)
 - [Bread.Cornbread.Pamelas.md](Bread.Cornbread.Pamelas.md)

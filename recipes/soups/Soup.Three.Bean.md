@@ -1,8 +1,8 @@
-# Three Bean Soup
+# Soup.Three.Bean.md
 
 Note: 1/2 cup dry beans == 15oz can
 
-## Ingredients
+### Ingredients
 
 - 2 tablespoons vegetable oil
 - 1 onion, chopped
@@ -14,7 +14,7 @@ Note: 1/2 cup dry beans == 15oz can
 - 1 (15 ounce) can pinto beans, drained
 - 2 (15 ounce) cans kidney beans, drained
 
-## Directions
+### Directions
 
 1. In a large saucepan over medium heat, cook onion, green and yellow bell peppers in oil until softened.
 2. Stir in chicken broth, tomatoes, black beans, pinto beans and kidney beans. Heat through.

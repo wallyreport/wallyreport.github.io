@@ -1,6 +1,6 @@
-# Cucumber Soup
+# Soup.Cucumber.md
 
-## Ingredients:
+### Ingredients:
 - 2 medium cucumbers (about a pound)
 - 3 spring onions
 - 1 clove garlic
@@ -9,7 +9,7 @@
 - 1/4 cup fresh parsley
  
 
-## Preparation:
+### Preparation:
 - Peel, deseed and chop cucumbers and place in a blender. 
 - Chop onions and add to blender. 
 - Add yogurt, mint and parsley and blend. 

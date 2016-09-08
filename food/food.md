@@ -1,7 +1,7 @@
 # Food 
 
 - [beans](beans/beans.md)
-- [breadse(breads/breads.md)
+- [breads](breads/breads.md)
 - [breakfest](breakfest/breakfest.md)
 - [desserts](desserts/desserts.md)
 - [dinner](dinner/dinner.md)

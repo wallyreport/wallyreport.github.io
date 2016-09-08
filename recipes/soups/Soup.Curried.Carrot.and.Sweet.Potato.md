@@ -24,13 +24,13 @@ Makes 6 servings
 
 # Chickpea topping (optional)
 
-## Ingredients
+### Ingredients
 - 1 tablespoon coconut oil
 - 1 (15 ounce) can chickpeas, drained, rinsed, and dried
 - 1 tablespoon lime juice
 - 1/4 teaspoon salt
 
-## Instructions
+### Instructions
 - In a small skillet, melt the coconut oil over medium heat.  
 - Add the chickpeas, lime juice, and salt.  
 - Saute until the chickpeas are browned and crisp, about 10-15 minutes.  

@@ -1,8 +1,8 @@
-# Curried Carrot and Sweet Potato Soup
+# Soup.Curried.Carrot.and.Sweet.Potato.md
 
 Makes 6 servings
 
-## Ingredients
+### Ingredients
 - 2 tablespoons coconut oil
 - 2 pounds baby carrots (or 2 pounds regular carrots, chopped)
 - 1 large sweet potato, cut into small chunks
@@ -12,7 +12,7 @@ Makes 6 servings
 - 3/4 teaspoon salt
 - 8 cups (64 ounces) vegetable stock
 
-## Instructions
+### Instructions
 - In a large stock pot, melt the coconut oil over medium heat.  
 - Add the carrots, sweet potato, apples, and curry and stir well. 
 - Allow to cook for a few minutes while you prepare the ginger.  

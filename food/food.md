@@ -9,5 +9,5 @@
 - [food.md](food/food.md.md)
 - [salads](salads/salads.md)
 - [sausage](sausage/sausage.md)
-- [snackbars](snackbar/snackbars.md)
+- [snackbars](snackbars/snackbars.md)
 - [soups](soups/soups.md)

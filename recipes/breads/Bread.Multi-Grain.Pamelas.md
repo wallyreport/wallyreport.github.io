@@ -1,10 +1,10 @@
 # Bread Multi-Grain Pamelas
 
-#### Wet Ingredients
+### Wet Ingredients
 - 1/4 cup oil
 - 2 eggs plus enough water to make 2 cups liquid
 
-#### Dry Ingredients
+### Dry Ingredients
 - 1 bag minus 1/2 cup (3 cups) Pamela's Gluten-Free Bread Mix
 - 1 packet (2-1/4 teaspoons) of active dry yeast
 - 1/4 cup teff (the whole grain, not flour, not soaked)

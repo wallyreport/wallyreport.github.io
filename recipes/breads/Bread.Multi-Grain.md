@@ -1,4 +1,4 @@
-## Multi-Grain Sandwich Bread, Gluten-Free
+# Multi-Grain Sandwich Bread, Gluten-Free
 
 Art of Gluten-Free Baking
  
@@ -7,11 +7,11 @@ http://artofglutenfreebaking.com
 
 (edited 1/27/11 to add weights to measurements)
 
-Special Equipment Needed
+### Special Equipment Needed
 - a stand mixer is very handy for this, but a hand mixer will do
 - loaf pan, 5×9 inch
 
-## Ingredients
+### Ingredients
 - 3 large or extra large eggs
 - 1/4 C (60ml) vegetable oil
 - 1 tsp vinegar
@@ -28,7 +28,7 @@ Special Equipment Needed
 - Optional: 2 TBL flax seeds, or gf oats, or sunflower seeds
 - extra oil and tapioca flour for pan
 
-## Directions
+### Directions
 - If you can, it’s very helpful to bring all the refrigerated ingredients to room temperature.
 - Oil and flour your pan.
 - In a small bowl or a glass measuring cup, whisk 1 TBL sugar into warm water until dissolved, add yeast and whisk until dissolved; set aside to proof (get foamy)
@@ -41,7 +41,4 @@ Special Equipment Needed
 - Bake at 400 degrees for 10 minutes.  Loosely tent with aluminum foil and bake another 30 minutes (40 minutes total).
 - Remove bread from oven and let cool for about 5 minutes in the pan, then carefully turn out onto cooling rack to cool completely.
 - We usually eat this within a couple of days, so it lives on the cutting board in the kitchen, cut-side down. Store at room temperature–not in the refrigerator!
-
-
-
 

@@ -1,7 +1,7 @@
 # Grain-Free Flax Bread Wraps Recipe (Gluten-Free, Vegan, Paleo)
 
 
-## Ingredients:
+### Ingredients:
 - 1 1/2 Cups ground organic golden flax seed
 - Dry substance for rolling ( organic kudzu starch, coconut flour, arrowroot powder etc...)
 - 1 Tbs organic oil

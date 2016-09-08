@@ -1,15 +1,15 @@
 # Bread Multi-Grain-Sprout Pamelas
 
-#### Wet ingredients (and salt):
+### Wet ingredients (and salt):
 - 1/4 cup oil
 - 2 eggs plus enough water to make 2 cups liquid
 - 1/2 tsp salt
 
-#### Dry ingredients
+### Dry ingredients
 - 1 bag (3-1/2 cups) Pamela's Gluten-Free Bread Mix
 - 1 yeast packet (2-1/4 tsp) enclosed in 19 oz bread mix bag
 
-#### Sprouts:
+### Sprouts:
 - 1/2 cup small sprouts (alfalfa or clover)
 - 1 cup larger sprouts (lentil or radish)
 - Use any combination or just one kind equal to 1-1/2 cups maximum
@@ -23,10 +23,3 @@
 6. Smooth the top of dough with greased or moistened fingers.
 7. Let raise for 60 to 75 minutes, slit top in 3 places with sharp knife to prevent splitting, and bake at 350°, 65 to 70 minutes.
 8. Let sit for 10 minutes then carefully remove from pan and cool on a rack.
-
- 
-
-
-
- 
-

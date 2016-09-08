@@ -1,6 +1,6 @@
-# Chili
+# Chili.Instantpot.md
 
-## Ingredients
+### Ingredients
 - Oil
   - usually Olive oil, but other oils should also work
   - maybe use canola oil, it's cheaper
@@ -23,7 +23,7 @@
   - 1 1/4 tsp salt
 - Water: 3 cups
 
-## Directions
+### Directions
 - saute veggies and spices
 - put everything in instant pot
 - cook on high pressure for 20 minutes

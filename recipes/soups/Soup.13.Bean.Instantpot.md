@@ -1,7 +1,7 @@
-# Soup_Bean
+# Soup.13.Bean.Instapot.md
 
 
-## Ingredients:
+### Ingredients:
 
 - 1 1/2 c. 13 Bean Soup Mix (mixed beans/peas/lentils) Ham Bone
 - 1 onion chopped
@@ -14,7 +14,7 @@
 - 1/4 tsp pepper
 
 
-## Directions:
+### Directions:
 
 - Soak beans in water overnight (or boil water, remove from stove and place beans for 1 hour to soak). 
 - Drain and rinse the beans.

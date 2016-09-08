@@ -1,6 +1,6 @@
-# Pressure_Cooker_Cuban_Black_Bean_Soup_Recipe
+# Soup.Cuban.Black.Bean.Instantpot.md
 
-## Ingredients
+### Ingredients
 
 - 1 pound dried black beans, soaked overnight, rinsed and drained
 - 2 tablespoons extra virgin olive oil
@@ -22,7 +22,7 @@
 - finely chopped red onion
 - minced scallion
 
-## Directions
+### Directions
 
 1. Heat oil in a 5 quart pressure cooker. Add onion, red bell pepper, garlic, bay leaf, cumin and oregano. Saute until onions are soft and spices are fragrant, about 4-5 minutes. Add pre-soaked beans, black pepper, salt, vinegar, red wine and water.
 2. Cover and seal pressure cooker according to manufacturer instructions. When pressure cooker reaches high pressure, reduce heat to low and cook for 15 minutes, watching to make sure pressure cooker maintains high pressure. If necessary, turn off heat to regulate pressure, and turn back on as necessary. Turn off heat and let pressure release naturally for 15 minutes. Release any remaining pressure according to manufacturer instructions. Remove lid and use immersion blender to partially blend beans in soup, if desired.

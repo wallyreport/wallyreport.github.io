@@ -1,11 +1,11 @@
 # Snackbar - Ultimate versitile recipe
 
-## Always
+### Always
 - 1 cup peanut butter
 - 1/2 cup coconut oil
 - 1 tsp xanthan gum
 
-## Put together 2 cups from any combination of the following
+### Put together 2 cups from any combination of the following
 - vanilla whey protein powder
 - flax seed meal
 - psyllium husk
@@ -17,12 +17,12 @@
 - raisins
 - anything reasonable
 
-## Sweetner (if you want it)
+### Sweetner (if you want it)
 - 1 to 10 tbls honey or agave necter 
 --- 10 tbls is about 2/3 cups
 
 
-## Directions
+### Directions
 1. Melt coconut oil. 
 2. Mix everything together. 
 3. Refridgerate for about an hour. 

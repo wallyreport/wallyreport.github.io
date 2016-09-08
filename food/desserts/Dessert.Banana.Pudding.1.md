@@ -1,6 +1,6 @@
 # Dessert Banana Pudding
  
-## Ingredients
+### Ingredients
 - 2 cups unsweetened almond milk
 - ¼ cup raw sugar
 - 2 tablespoons cornstarch
@@ -9,7 +9,7 @@
 - ½ box of vegan vanilla wafers
 - Cinnamon for dusting
  
-## Instructions
+### Instructions
 - Heat milk in a medium saucepan over low heat, stirring to avoid scald. Mash half of a banana mixing it with a little water and then add to milk. Whisk until mixture is well combined.
 - Mix cornstarch and sugar together in a small mixing bowl. Add 1 to 2 tablespoons of water and mix creating a paste. Whisk in to milk. Raise heat to medium-high. Stir until mixture thickens, approximately 5-7 minutes.
 - Transfer pudding to a bowl and set a layer of plastic wrap directly on top of the pudding. Refrigerate to set (2-4 hours)

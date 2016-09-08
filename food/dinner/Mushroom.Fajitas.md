@@ -1,6 +1,6 @@
 # PORTOBELLO MUSHROOM FAJITAS
 
-## INGREDIENTS
+### INGREDIENTS
 - 16-24 oz  portobello mushrooms 
 - 1.5 teaspoon chili powder
 - 1/2 teaspoon garlic powder
@@ -17,7 +17,7 @@
 - 1- 15 oz can of black beans (optional)
 - Salsa (optional)
 
-## INSTRUCTIONS
+### INSTRUCTIONS
 - Wash all the veggies. Chop the mushrooms into smaller pieces. Slice the peppers and onions into thin strips.
 - In a pan, sauté the mushrooms without oil. In a bowl, combine the spices with the juice from one lime. Add the spice mixture to the mushrooms once the mushrooms are tender. Add a few tablespoons of water to the pan if necessary. Continue cooking until desired texture. Set aside.
 - Sauté the onions and the peppers until desired texture.

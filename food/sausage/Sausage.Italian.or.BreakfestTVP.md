@@ -1,7 +1,7 @@
 # Sausage Italian or Breakfest TVP  
 
 
-## Ingredients
+### Ingredients
 - 1 medium potato, about 8-ounces
 - 3/4 cup TVP
 - 1 teaspoon ground fennel
@@ -25,7 +25,7 @@
 
 
 
-## Instructions
+### Instructions
 - Peel potato and dice into 1/2-inch pieces. 
 - Steam until tender, about 10 minutes. 
 - Transfer to a bowl and mash very well with a potato masher (lumps of potato will make these crumble.)

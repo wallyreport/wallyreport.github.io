@@ -1,10 +1,9 @@
 # Quinoa Potato Crust Pizza - Gluten Free & 100% Vegan!
 
 
-## Ingredients:
+### Ingredients:
 
-Pizza dough for the base
-
+### Pizza dough for the base
 - 2 2/3 cups quinoa flour
 - 3 tbs arrowroot
 - 2 tsp instant yeast
@@ -14,8 +13,7 @@ Pizza dough for the base
 
 Top with your favorite pizza toppings!!!
 
-## Cheesy Sauce Ingredients
-
+### Cheesy Sauce Ingredients
 - 1/2 cup water
 - 1/2 tsp celtic sea salt
 - 2 tbs nutritional yeast

@@ -1,6 +1,6 @@
 # Sweet Potato Home Fries
 
-## Ingredients
+### Ingredients
 - 2 Tbsp peanut oil
 - 1 medium onion, chopped
 - 1 clove garlic, minced
@@ -10,7 +10,7 @@
 - 1 tsp coarse salt
 
 
-## Instructions
+### Instructions
 - In a cast-iron skillet, fry onion in 1 Tbsp oil until translucent.
 - Stir in garlic and fry another 30 seconds.
 - Transfer to a heat-proof bowl and set aside.

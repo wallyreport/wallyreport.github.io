@@ -2,7 +2,7 @@
 
 SERVINGS 8 UNITS US
 
-## INGREDIENTS
+### INGREDIENTS
 - 1⁄2 cup boiling water
 - 1⁄2 teaspoon liquid smoke (optional)
 - 3 tablespoons Braggs liquid aminos (gluten-free if needed for gf diet) or 3 tablespoons soy sauce (gluten-free if needed for gf diet)
@@ -18,7 +18,7 @@ SERVINGS 8 UNITS US
 - oil (for frying)
 
 
-## DIRECTIONS
+### DIRECTIONS
 - Stir boiling water with liquid smoke (if using), soy sauce, maple syrup, and molasses.
 - Meanwhile, mix TVP with dry seasonings; stir to incorporate. 
 - Combine wet and dry mixtures. 

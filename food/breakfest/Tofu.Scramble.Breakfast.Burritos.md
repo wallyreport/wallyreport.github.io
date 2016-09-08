@@ -1,6 +1,6 @@
 # Tofu Scramble Breakfast Burritos
 
-## Ingredients
+### Ingredients
 - 1/2 red onion (or 1/2 cup, finely chopped)
 - 1/4 red bell pepper (or 1/4 cup, finely chopped )
 - 1 clove garlic (minced)
@@ -11,7 +11,7 @@
 - 1/8 teaspoon turmeric
 - salt to taste
 
-## Directions
+### Directions
 1. Place your chopped onion, bell pepper, and garlic in a skillet/frying pan with about 1 teaspoon of olive oil and saute it on the stove on medium-high heat. 
 2. Remove from heat when your onions are beginning to change color. Set the whole thing aside.
 3. In a bowl (or save a dish and do it right into your pan)m crumble your tofu and mix in your seasonings. If you like your tofu cubed rather than crunbled, you could totally do that for this recipe as well. 

@@ -2,34 +2,34 @@
 
 
 
-## INGREDIENTS
+### INGREDIENTS
 
-### For the Spice Mix:
-- 1 ½ tsp. garlic powder
-- 1 ½ tsp. fennel, crushed
-- ½ tsp. black pepper
+#### For the Spice Mix:
+- 1 1/2 tsp. garlic powder
+- 1 1/2 tsp. fennel, crushed
+- 1/2 tsp. black pepper
 - 1 tsp. salt
-- 1 ½ tsp. sweet paprika
-- 1 ½ tsp. smoked paprika
-- ½ tsp. red pepper flakes
+- 1 1/2 tsp. sweet paprika
+- 1 1/2 tsp. smoked paprika
+- 1/2 tsp. red pepper flakes
 - 1 tsp. oregano
 - 1/8 tsp. allspice
 
-### For the Sausage:
+#### For the Sausage:
 - 2 tsp. + 2 tsp. olive oil
 - 1 cup mushrooms, chopped
-- ¼ cup onion, finely chopped
+- 1/4 cup onion, finely chopped
 - 1 garlic clove, minced
 - 2 cups cooked or 1-15 oz. can of black-eyed peas, drained and rinsed
 - 1 Tbs. sun-dried tomato paste
-- ¼ cup nutritional yeast
-- ½ cup brown rice flour
+- 1/4 cup nutritional yeast
+- 1/2 cup brown rice flour
 - 1 tsp. xanthan gum
 - 3 Tbs. of gluten-free, vegan Worcestershire Sauce
 - A few drops of Liquid Smoke (optional)
 
 
-## DIRECTIONS
+### DIRECTIONS
 
 - Heat a skillet with 2 tsp. of olive oil. Sauté the onions, mushrooms and garlic until softened. Set aside and let cool.
 - In a large bowl, add the black-eyed peas and mash them up. You can use a fork, a potato masher or just get your hands in there. If you want to use a food processor, do a rough chop. You don’t want a puree. Then add the tomato paste, nutritional yeast, spice mix and brown rice flour. Mix well.

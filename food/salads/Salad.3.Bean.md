@@ -1,7 +1,7 @@
 # 3 Bean Salad
 
 
-## Ingredients
+### Ingredients
 - 1 (15 ounce) can garbanzo beans (chickpeas), drained and rinsed 
 - 1 (15 ounce) can kidney beans, drained and rinsed 
 - 1 (15 ounce) can green beans, drained and rinsed 
@@ -17,7 +17,7 @@
 - 1/4 teaspoon ground cayenne pepper (optional) 
 
 
-## Directions
+### Directions
 - In a bowl, gently mix the garbanzo beans, kidney beans, green beans, green onions, and celery. 
 - In a separate bowl, whisk together the vinegar, oil, honey, mustard, garlic powder, black pepper, onion powder, and cayenne pepper. 
 - Pour dressing over the salad, and toss gently to coat. 

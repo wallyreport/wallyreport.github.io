@@ -1,9 +1,9 @@
 # Sausage Italian Vegan GF TVP.md
 
 
-## INGREDIENTS
+### INGREDIENTS
 
-### Dry:
+#### Dry:
 - 1 cup TVP (Textured Veg. Protein)
 - 1/2 cup nutritional yeast flakes
 - 1/4 cup sorghum flour
@@ -19,13 +19,13 @@
 - 1/8 tsp ground allspice (didn’t have and used Italian seasonings)
 - 1/2 tsp salt
 
-### Wet:
+#### Wet:
 - 1 cup water
 - 6 to 8 cloves garlic, minced or pressed
 - 2 tbsp olive oil
 
 
-## DIRECTIONS
+### DIRECTIONS
 
 - Mix all of the dry ingredients well in a medium sized bowl.
 - Add wet ingredients and let sit for 5 minutes so TVP can absorb moisture. Form dough into patties or sausages.

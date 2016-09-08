@@ -1,6 +1,6 @@
 #### FLAXSEED OIL DRESSING 
 
-## Ingredients: 
+### Ingredients: 
 
 - 3 tablespoons apple cider vinegar or lemon juice
 - 1 tablespoon chopped chives
@@ -14,12 +14,12 @@
 - 1/2 teaspoon salt
 - Ground black pepper
 
-## Method: 
+### Method: 
 
 In a blender or food processor, combine vinegar, chives, parsley, basil, oregano, mustard, and garlic and blend until smooth. Slowly add oil in a fine stream and blend until slightly creamy. Season with cayenne, salt and pepper.
 
 
-## Another Recipe:
+### Another Recipe:
 ### From Weight-Watchers
 
 - 2 Tbsp water
@@ -32,6 +32,6 @@ In a blender or food processor, combine vinegar, chives, parsley, basil, oregano
 
 http://www.weightwatchers.com/food/rcp/RecipePage.aspx?recipeid=99781
 
-## Another Recide:
+### Another Recipe:
 
 https://www.youtube.com/watch?v=pQgJMTS-4iU

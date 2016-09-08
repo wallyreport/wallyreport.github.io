@@ -6,7 +6,7 @@ They do need to be kept in the fridge, which doesn’t make them as portable as 
  
 
  
-## Ingredientes for Bars:
+### Ingredientes for Bars:
 - 1 cup mixed nuts and seeds, toasted* (I used 1/4 cup each walnuts, pecans, sunflower seeds and pepitas, but you can use whatever you like best)
 - 1/4 cup unsweetened, shredded coconut, toasted
 - 1/4 cup flax seed meal
@@ -16,20 +16,20 @@ They do need to be kept in the fridge, which doesn’t make them as portable as 
 - 1/2 tsp xanthan gum
 - 1 tsp agave nectar
  
-## Ingredientes for Ganache:
+### Ingredientes for Ganache:
 - 2 oz unsweetened chocolate, finely chopped
 - 1 1/2 tbsp butter, cut into three pieces
 - 1 tbsp whipping cream
 - 12-20 drops stevia extract
  
 
-## Notes
+### Notes
 - You can toast the nuts and seeds in the oven at 350F for 8-10 minutes, watching carefully to make sure nothing burns.
 - It may help to coarsely chop the larger nuts so that the smaller seeds don’t over-brown while the nuts are still raw. 
 - For the coconut, it is easier to toast in a dry skillet over medium heat, stirring constantly until it is a nice brown colour.
 
 
-## Directions for bars 
+### Directions for bars 
 1. Grease an 4×8 inch loaf pan.
 2. Grind nuts and seeds in a food processor until it resembles coarse meal. 
     - It’s okay to have some larger bits as they increase the crunch factor.
@@ -39,7 +39,7 @@ careful. I melted with the oven off, in the heat that remained from toasted the 
 4. In a medium bowl, combine all bar ingredients and mix very well to combine. Spread evenly in prepared pan and press well. 
 5. Place in refrigerator and let chill until firm, 30-45 minutes.
 
-### Directions for Ganache
+#### Directions for Ganache
 1. Melt 1/2 tablespoon butter with the cream over low heat. 
 2. Add in chocolate and stir quickly to melt.
 3. Add in remaining tablespoon butter until ganache is smooth and thick. Off heat, stir in stevia.

@@ -1,4 +1,4 @@
-# GLUTEN FREE OATMEAL COOKIES
+# OATMEAL COOKIES
 
 ### INGREDIENTS
 - 2 1/4 cups gluten-free old-fashioned oats, divided

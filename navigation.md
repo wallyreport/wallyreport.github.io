@@ -3,4 +3,4 @@
 [Home](index.md)
 [Food](food/food.md)
 [Health](health.md)
-[Tech](tech.md)
+[Tech](tech_notes/tech.md)

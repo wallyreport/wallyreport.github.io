@@ -12,3 +12,4 @@ for f in `ls`;
 		mv "$f" "${f//_/.}"; 
 	done
 ```
+- [appmdlink.sh.md](appmdlink.sh.md)

@@ -1,6 +1,6 @@
 # jesus.v.muhammad.md
 
-| Jesus | Muhammad |
-|:-----:|:--------:|
+|: Jesus :|: Muhammad :|
+|-----|--------|
 |1      | 1        |
 |2      | 2        |

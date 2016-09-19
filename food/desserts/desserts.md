@@ -9,3 +9,4 @@
 - [Oatmeal.Homemade.Instant.md](Oatmeal.Homemade.Instant.md)
 - [Sorbet.Spinach.Lime.md](Sorbet.Spinach.Lime.md)
 - [Sorbet.Spinach.Pineapple.Lime.md](Sorbet.Spinach.Pineapple.Lime.md)
+- [Ice.Cream.Chocolat.No.Churn.md](Ice.Cream.Chocolat.No.Churn.md)

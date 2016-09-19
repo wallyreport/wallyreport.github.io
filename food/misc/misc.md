@@ -1,3 +1,3 @@
-# misc.md \n
+# misc.md
 
 - [Soy.Milk.md](Soy.Milk.md)

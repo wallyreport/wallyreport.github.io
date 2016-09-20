@@ -7,3 +7,4 @@
 - [Soup.Cucumber.md](Soup.Cucumber.md)
 - [Soup.Curried.Carrot.and.Sweet.Potato.md](Soup.Curried.Carrot.and.Sweet.Potato.md)
 - [Soup.Three.Bean.md](Soup.Three.Bean.md)
+- [Soup.Butternet.Coconut.Curry.md](Soup.Butternet.Coconut.Curry.md)

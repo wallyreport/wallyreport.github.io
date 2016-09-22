@@ -1,3 +1,3 @@
 # politics.md
 
-- [jesus.v.muhammad.md](jesus.v.muhammad.md)
+- [Charlotte Riots](Charlotte.Riots.md)

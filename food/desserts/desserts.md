@@ -10,3 +10,4 @@
 - [Sorbet.Spinach.Lime.md](Sorbet.Spinach.Lime.md)
 - [Sorbet.Spinach.Pineapple.Lime.md](Sorbet.Spinach.Pineapple.Lime.md)
 - [Ice.Cream.Chocolat.No.Churn.md](Ice.Cream.Chocolat.No.Churn.md)
+- [Ice.Cream.Strawberry.No.Churn.md](Ice.Cream.Strawberry.No.Churn.md)

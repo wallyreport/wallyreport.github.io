@@ -3,7 +3,7 @@
 ## Ingredients
 
 - 3 cups Water
-- 2 tbs Maple Flavor
+- 1 tbs Maple Extract
 - 5 drops Lemon Flavor (trust me!)
 - 2 cups Stevia in the Raw (or 1+3/4 tsp of Stevia Extract)
 - 11.2 tsp Xanthan Gum**

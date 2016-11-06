@@ -5,4 +5,4 @@
 - [Pizza.Crust.Crunchy.Pamelas.md](Pizza.Crust.Crunchy.Pamelas.md)
 - [Pizza.md](Pizza.md)
 - [Stuffed.Baked.Zuccini.md](Stuffed.Baked.Zuccini.md)
-- [quiche.chickpea.md](quich.chickpea.md)
+- [quiche.chickpea.md](quiche.chickpea.md)

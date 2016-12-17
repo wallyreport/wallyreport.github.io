@@ -1,4 +1,4 @@
-# oatmeal.cookies.md 
+# Oatmeal.Cookies.md 
 
 
 ### Ingredients
@@ -10,7 +10,7 @@
 - 1 teaspoon ground cinnamon
 - 1/2 teaspoon baking soda
 - 1/2 teaspoon salt
-- 1 stick (1/2 cup) vegan butter, softened (i used earth's balance)
+- 1/2 cup vegan butter or coconut oil
 - 1/2 cup white sugar
 - 1 teaspoon vanilla extract
 - 1 cup raisins

@@ -1,24 +1,25 @@
-# OATMEAL COOKIES
-
-### INGREDIENTS
-- 2 1/4 cups gluten-free old-fashioned oats, divided
-- 1 tablespoon cornstarch
-- 3/4 teaspoon ground cinnamon
-- 1/2 teaspoon gluten-free baking powder
-- 1/4 teaspoon salt
-- 8 tablespoons unsalted butter, room temperature
-- 6 tablespoons granulated sugar
-- 1/4 cup packed light-brown sugar
-- 1 large egg
-- 1 teaspoons pure vanilla extract
-- 1/3 cup raisins
-- 1/3 cup toasted and chopped pecans
-
-### INSTRUCTIONS
-- Preheat oven to 350 degrees. In a blender or coffee grinder, process 3/4 cup oats into a fine meal. Whisk together ground oats, cornstarch, cinnamon, baking powder, and salt.
-- In a large bowl, using a mixer, beat butter and sugars until light and fluffy. Beat in egg and vanilla. With mixer on low, gradually add oat mixture, beating until combined. Fold in raisins, and remaining oats.
-- In batches, drop dough in 2-tablespoonful mounds onto a parchment-lined baking sheet, 2 inches apart. Bake until cookies are golden brown at edges, 15 to 18 minutes. Let cool on sheet on a wire rack 2 minutes, then transfer to rack and let cool completely.
+# oatmeal.cookies.md 
 
 
-### NOTES
-- Thanks to Tywana who did some experimenting with oat flour and found that you can substitute 1 cup of oat flour for every 1 1/3 to 1 1/2 cups oats. Tywana also noted that adding a little xanthan gum kept the cookies from getting hard.
+### Ingredients
+
+- 1 tablespoon ground flax seed
+- 3 tablespoons water
+- 2 cups gluten free old fashioned oats
+- 1 cup gluten free all purpose flour
+- 1 teaspoon ground cinnamon
+- 1/2 teaspoon baking soda
+- 1/2 teaspoon salt
+- 1 stick (1/2 cup) vegan butter, softened (i used earth's balance)
+- 1/2 cup white sugar
+- 1 teaspoon vanilla extract
+- 1 cup raisins
+
+### Preparation
+
+- Preheat oven to 350° F.
+- In a small bowl, whisk together the flax and water. Let sit for 2 minutes.
+- In a separate bowl, whisk together the oats, flour, cinnamon, baking soda and salt.
+- In the bowl of a standing mixer, or with an electric mixer, cream together the butter and sugar until light and fluffy, about 3 minutes. Add the flax mixture and vanilla extract and stir until combined.
+- Gradually add the flour mixture until just combined. Add the raisins and stir to thoroughly combine.
+- Using a 2 tablespoon measure, place cookie dough onto Silpat or parchment-lined baking sheet. Bake for 15-20 minutes, or until golden brown. 

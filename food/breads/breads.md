@@ -12,3 +12,4 @@
 - [Bread.Multi-Grain.Sprout.Pamelas.md](Bread.Multi-Grain.Sprout.Pamelas.md)
 - [Bread.Multi-Grain.md](Bread.Multi-Grain.md)
 - [Bread.Pumpkin.md](Bread.Pumpkin.md)
+- [Bread.Pumpkin.Flax.md](Bread.Pumpkin.Flax.md)

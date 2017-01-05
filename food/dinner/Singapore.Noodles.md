@@ -11,6 +11,7 @@
 - 3 garlic cloves, minced
 - 2 teaspoons fresh grated ginger
 - 1 red bell pepper, sliced into strips
+- 1 cup snow peas
 - 3 cups shredded napa cabbage
 - 2 tablespoons Madras curry powder
 - 1/2 teaspoon turmeric

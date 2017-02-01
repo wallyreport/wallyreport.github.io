@@ -9,7 +9,7 @@
 - [Muffins.Pumpkin.md](Muffins.Pumpkin.md)
 - [Muffins.Apple.Hemp.md](Muffins.Apple.Hemp.md)
 - [Muffins.Banana.Almond.Meal.md](Muffins.Banana.Almond.Meal.md)
-- [Muffins.Banana.Flax.Meal.2.md](Muffines.Banana.Flax.Meal.2.md)
+- [Muffins.Banana.Flax.Meal.2.md](Muffins.Banana.Flax.Meal.2.md)
 - [Muffins.Banana.Flax.Meal.md](Muffins.Banana.Flax.Meal.md)
 - [Muffins.Banana.Oat.Flour.md](Muffins.Banana.Oat.Flour.md)
 - [Muffins.Banana.Pamelas.md](Muffins.Banana.Pamelas.md)

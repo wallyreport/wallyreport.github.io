@@ -1,6 +1,6 @@
-# Bread.Pumpkin.md
+# Muffins.Pumpkin.md
 
-### Ingredients
+### Dry Ingredients
 
 - 1 1/3 cups brown rice flour (you can also use white rice flour)
 - 1/4 cup buckwheat flour
@@ -13,6 +13,9 @@
 - 1/2 teaspoon cinnamon
 - 1/2 teaspoon Celtic sea salt
 - 2/3 cup coconut sugar
+
+### Wet Ingredients
+
 - 1 (15oz/425g) can unsweetened pumpkin puree
 - 1/2 cup grapeseed oil or coconut oil
 - 1/2 cup pure maple syrup

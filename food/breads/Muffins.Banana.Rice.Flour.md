@@ -1,4 +1,4 @@
-# Bread.Banana.Rice.Flour.md
+# Muffins.Banana.Rice.Flour.md
 
 - Prep Time: 10 mins
 - Cook Time: 60 mins

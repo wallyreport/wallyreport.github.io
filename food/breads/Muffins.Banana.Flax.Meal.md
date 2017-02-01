@@ -1,4 +1,4 @@
-# Bread Banana - Flax Meal
+# Muffins Banana - Flax Meal
 
 ### Summary
 - Prep time	20 minutes

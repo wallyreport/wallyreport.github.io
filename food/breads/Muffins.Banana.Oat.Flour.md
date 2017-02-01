@@ -1,4 +1,4 @@
-# Bread Banana Oat Flour
+# Muffins Banana Oat Flour
 
 ### Ingredients
 - 3 cups oats (or 3-1/2 cups oat flour) @done(2015-08-23)

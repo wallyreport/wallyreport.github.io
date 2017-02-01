@@ -1,4 +1,4 @@
-# Bread Banana Pamelas
+# Muffins.Banana.Pamelas.md
 
 ### Wet Ingredients
 - 4 tablespoons butter, melted

@@ -14,4 +14,5 @@
 - [Muffins.Banana.Oat.Flour.md](Muffins.Banana.Oat.Flour.md)
 - [Muffins.Banana.Pamelas.md](Muffins.Banana.Pamelas.md)
 - [Muffins.Banana.Rice.Flour.md](Muffins.Banana.Rice.Flour.md)
+- [Muffins.Oatmeal.md](Muffins.Oatmeal.md)
 - [Hamburger.Buns.Pamelas.md](Hamburger.Buns.Pamelas.md)

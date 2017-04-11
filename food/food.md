@@ -11,4 +11,4 @@
 - [snackbars](snackbars/snackbars.md)
 - [soups](soups/soups.md)
 - [misc](misc/misc.md)
-- TEST test *TEST*
+- [test](test.md)
